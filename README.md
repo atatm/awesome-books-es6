@@ -39,11 +39,11 @@ Contributions, issues, and feature requests are welcome!
 
 ### Go Live
 
-https://atatm.github.io/awesome-books-es6.git/
+https://atatm.github.io/awesome-books-es6/
 
 ## Show your support
 
-Give a :star * :️ if you like this project!
+Give a : star * :️ if you like this project!
 
 ## Acknowledgments
 

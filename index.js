@@ -12,7 +12,7 @@ const dateTime = document.querySelector('.date-time');
 const awesomeBookShelf = new BookShelf();
 
 linkList.addEventListener('click', () => {
- showList();
+  showList();
 });
 
 linkAdd.addEventListener('click', () => {
@@ -20,19 +20,19 @@ linkAdd.addEventListener('click', () => {
 });
 
 linkContact.addEventListener('click', () => {
- showContact();
+  showContact();
 });
 
-bookAddButton.addEventListener('click' ,() => {
- addForm(awesomeBookShelf); 
+bookAddButton.addEventListener('click', () => {
+  addForm(awesomeBookShelf);
 });
 
 const timer = () => {
-  const now =DateTime.now ();
-  dateTime.innerHTML =now.toLocaleString(DateTime.DATETIME_MED);
+  const now = DateTime.now();
+  dateTime.innerHTML = now.toLocaleString(DateTime.DATETIME_MED);
 };
 
-setInterval(timer , 1000);
+setInterval(timer, 1000);
 
 window.onload = () => {
   awesomeBookShelf.loadDataFromLocalStorage();

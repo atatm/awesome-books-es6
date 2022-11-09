@@ -6,5 +6,6 @@
     "search.useGlobalIgnoreFiles": true,
     "git.fetchOnPull": false,
     "git.verboseCommit": true,
-    "javascript.format.enable": true
+    "javascript.format.enable": true,
+    "liveServer.settings.port": 5501
 }
