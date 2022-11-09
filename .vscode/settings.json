@@ -1,0 +1,10 @@
+{
+    "git.allowForcePush": true,
+    "git.enableSmartCommit": true,
+    "search.useParentIgnoreFiles": true,
+    "git.ignoreLegacyWarning": true,
+    "search.useGlobalIgnoreFiles": true,
+    "git.fetchOnPull": false,
+    "git.verboseCommit": true,
+    "javascript.format.enable": true
+}
