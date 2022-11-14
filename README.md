@@ -1,7 +1,7 @@
 # awesome-books-es6
 
 
-> This is an app that helps you keep track of the various books you want to read or have read featuring the author and the title of book. In this project I used Es6 modules and arrow functions.
+> This is an app that helps us to add the book by using the author and the title of book. In this project I used Es6 modules and arrow functions.
 
 ## Built With
 
